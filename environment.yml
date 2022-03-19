@@ -1,7 +1,9 @@
-name: matchGW
+name: Try_GR_with_Python 
 channels:
   - conda-forge
 dependencies:
-  - python=3
+  - python=3.7
   - numpy
+  - sympy
+  - gravipy
  
