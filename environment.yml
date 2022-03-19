@@ -2,6 +2,7 @@ name: Try_GR_with_Python
 channels:
   - conda-forge
 dependencies:
-  - python=3.7
-  - numpy
-  - sympy
+  - python=3.7.3
+  - numpy=1.21.4
+  - mpmath=1.1.0
+  - sympy=1.4
